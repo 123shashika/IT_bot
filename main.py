@@ -264,8 +264,3 @@ app.add_handler(CommandHandler("help", help))
 
 print("Bot is running...")
 app.run_polling()
-
-
-print("🚂 Bot running on Railway...")
-app.run_polling()
-       
